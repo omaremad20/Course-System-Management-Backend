@@ -68,3 +68,11 @@ https://course-management-dashboard-backend-production.up.railway.app
 ## License
 
 This project is intended for assesment and portfolio purposes.
+
+## Live Demo Using API
+
+https://course-management-panel.vercel.app/list
+
+## Github repo 
+
+https://github.com/omaremad20/Course-Management-Dashboard.git
